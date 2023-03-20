@@ -14,7 +14,7 @@ export default function Home() {
 						<h1>Hi, my name is Thinh</h1>
 						<h2 className="mt-2 font-normal">
 							I&apos;m a hobbyist who enjoys programming and
-							creating computer science projects. My goal is to
+							creating computer science -business projects. My goal is to
 							make as many moneys and become the richest man in
 							the world.
 						</h2>
