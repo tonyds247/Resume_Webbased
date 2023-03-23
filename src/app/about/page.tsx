@@ -61,7 +61,7 @@ export default function About() {
 					<div className="text-left mt-10">
 						<span>
 							My objective is to become a data analyst within the next few years.
-							That's why I decided to pursue further education in Applied Data Science, which emphasizes practical application in solving business problems through real-world projects.
+							That&apos;s why I decided to pursue further education in Applied Data Science, which emphasizes practical application in solving business problems through real-world projects.
 							In addition to being proficient in data programming languages, I am self-taught in other programming languages such as HTML, CSS, and frameworks like Nodejs.
 							To prepare myself for the practical application of my knowledge, I practice every day with data, not just through homework assignments but also by working on real projects..
 						</span>
