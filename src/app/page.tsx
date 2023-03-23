@@ -87,27 +87,27 @@ function Exprience() {
 						<div className="flex flex-col justify-center p-1">
 							<div className="mx-5 my-2 flex items-center">
 								<Image
-									src="/python.svg"
+									src="/icons8-python-48.svg"
 									height={25}
 									width={25}
 									alt="Javascript Logo"
 								/>
 								<span className="ml-1">python</span>
 							</div>
-							<div className="mx-2 my-2 flex items-center">
+							<div className="mx-3 my-2 flex items-center">
 								<Image
-									src="/ts.svg"
-									height={32}
-									width={32}
+									src="/r.svg"
+									height={50}
+									width={40}
 									alt="Typescript Logo"
 								/>
 								<span className="ml-1">R Language</span>
 							</div>
-							<div className="mx-2 my-2 flex items-center">
+							<div className="mx-5 my-2 flex items-center">
 								<Image
-									src="/go.svg"
-									height={32}
-									width={32}
+									src="/2213869431548330928.svg"
+									height={30}
+									width={30}
 									alt="GoLang Logo"
 								/>
 								<span className="ml-1">SQL</span>
@@ -134,7 +134,7 @@ function Exprience() {
 						<div className="flex flex-col justify-center p-1">
 							<div className="mx-2 my-2 items-center hidden dark:flex">
 								<Image
-									src="/next.svg"
+									src="/icons8-sap-48.svg"
 									height={32}
 									width={32}
 									alt="Next Logo"
@@ -152,18 +152,18 @@ function Exprience() {
 							</div>
 							<div className="mx-2 my-2 flex items-center">
 								<Image
-									src="/nest.svg"
-									height={32}
-									width={32}
+									src="/icons8-tableau-software-50.svg"
+									height={28}
+									width={28}
 									alt="Javascript Logo"
 								/>
-								<span className="ml-1">Knime</span>
+								<span className="ml-1">Tableau/ MS PowerBI</span>
 							</div>
 							<div className="mx-2 my-2 flex items-center">
 								<Image
-									src="/go.svg"
-									height={32}
-									width={32}
+									src="/icons8-microsoft-48.svg"
+									height={28}
+									width={28}
 									alt="Javascript Logo"
 								/>
 								<span className="ml-1">MS Office Suite</span>
@@ -190,27 +190,27 @@ function Exprience() {
 						<div className="flex flex-col justify-center p-1">
 							<div className="mx-2 my-2 flex items-center">
 								<Image
-									src="/linux.svg"
-									height={32}
-									width={32}
+									src="/15415511951594721605.svg"
+									height={28}
+									width={28}
 									alt="Linux Logo"
 								/>
 								<span className="ml-1">Data Mining/Analytics</span>
 							</div>
 							<div className="mx-2 my-2 flex items-center">
 								<Image
-									src="/api.svg"
-									height={32}
-									width={32}
+									src="/icons8-job-seeker-96.png"
+									height={28}
+									width={28}
 									alt="Api Logo"
 								/>
 								<span className="ml-1">Business Acumen</span>
 							</div>
 							<div className="mx-2 my-2 flex items-center">
 								<Image
-									src="/container.svg"
-									height={32}
-									width={32}
+									src="/icons8-account-48.png"
+									height={28}
+									width={28}
 									alt="Container Logo"
 								/>
 								<span className="ml-1">Visualization</span>
