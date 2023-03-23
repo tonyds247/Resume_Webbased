@@ -10,20 +10,9 @@ export default function Footer() {
 				</Link>
 			</div>
 			<div className="flex flex-col">
-				<Link href="https://github.com/CutieCat6778">Github</Link>
-				<Link href="https://instagram.com/txzje" className="mt-2">
-					Instagram
-				</Link>
-				<Link
-					href="https://discordapp.com/users/924351368897106061"
-					className="mt-2"
-				>
-					Discord
-				</Link>
-			</div>
-			<div className="flex flex-col">
-				<Link href="https://github.com/CutieCat6778/thinh.tech">
-					Source code
+				<Link href="https://github.com/tonyds247">Github</Link>
+				<Link href="https://twitter.com/ngtony247" className="mt-2">
+					twitter
 				</Link>
 			</div>
 		</footer>

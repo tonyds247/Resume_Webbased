@@ -20,12 +20,12 @@ export default function NavBar({ root }: IProps) {
 							alt="Logo"
 						/>
 					</div>
-					<h1 className="text-2xl ml-2">{!root ? "Thinh" : "Go back"}</h1>
+					<h1 className="text-2xl ml-2">{!root ? "Tony" : "Go back"}</h1>
 				</div>
 			</Link>
 			<span className="">
 				<ModeButton />
 			</span>
 		</nav>
-	);
+	)
 }

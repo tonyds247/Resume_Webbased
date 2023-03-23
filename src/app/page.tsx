@@ -13,7 +13,6 @@ export default function Home() {
 					<div className="sm:w-6/12 mt-6 sm:mt-0">
 						<h1>Hi, this is Tony</h1>
 						<h2 className="mt-2 font-normal">
-							Data is a fascinating field that provides us with the tools to explore vast amounts of information and uncover valuable insights and patterns.
 							With data being ubiquitous in today's world, it's no surprise that many people are drawn to careers in data analysis, including myself. 
 							Becoming a data analyst is a personal goal of mine, and I'm excited to continue learning and growing in this field.
 						</h2>
@@ -86,14 +85,14 @@ function Exprience() {
 					<div className="w-full text-white dark:text-gray-900 rowdies bg-gray-900 rounded-b-md dark:bg-white transition-all duration-500 ease-in-out translate-x-40 opacity-0 invisible peer-checked:opacity-100 peer-checked:visible peer-checked:translate-x-0">
 						<Divider props="my-0" />
 						<div className="flex flex-col justify-center p-1">
-							<div className="mx-2 my-2 flex items-center">
+							<div className="mx-5 my-2 flex items-center">
 								<Image
-									src="/js.svg"
-									height={32}
-									width={32}
+									src="/python.svg"
+									height={25}
+									width={25}
 									alt="Javascript Logo"
 								/>
-								<span className="ml-1">Javascript</span>
+								<span className="ml-1">python</span>
 							</div>
 							<div className="mx-2 my-2 flex items-center">
 								<Image
@@ -102,7 +101,7 @@ function Exprience() {
 									width={32}
 									alt="Typescript Logo"
 								/>
-								<span className="ml-1">Typescript</span>
+								<span className="ml-1">R Language</span>
 							</div>
 							<div className="mx-2 my-2 flex items-center">
 								<Image
@@ -111,7 +110,7 @@ function Exprience() {
 									width={32}
 									alt="GoLang Logo"
 								/>
-								<span className="ml-1">GoLang</span>
+								<span className="ml-1">SQL</span>
 							</div>
 						</div>
 					</div>
@@ -128,7 +127,7 @@ function Exprience() {
 						className="flex justify-center cursor-pointer rounded-t-md text-white dark:text-gray-900 rowdies bg-gray-900 dark:bg-white px-1 transition-all duration-500 ease-in-out"
 						htmlFor="no"
 					>
-						Frameworks
+						Tools/Platforms
 					</label>
 					<div className="w-full text-white dark:text-gray-900 rowdies bg-gray-900 dark:bg-white rounded-b-md transition-all duration-500 ease-in-out translate-y-10 opacity-0 invisible peer-checked:opacity-100 peer-checked:visible peer-checked:translate-y-0">
 						<Divider props="my-0" />
@@ -140,7 +139,7 @@ function Exprience() {
 									width={32}
 									alt="Next Logo"
 								/>
-								<span className="ml-1">Next.js</span>
+								<span className="ml-1">SAP ERP/BO</span>
 							</div>
 							<div className="mx-2 my-2 flex items-center dark:hidden">
 								<Image
@@ -149,7 +148,7 @@ function Exprience() {
 									width={32}
 									alt="Next Logo"
 								/>
-								<span className="ml-1">Next.js</span>
+								<span className="ml-1">Tableau/ MS PowerBI</span>
 							</div>
 							<div className="mx-2 my-2 flex items-center">
 								<Image
@@ -158,7 +157,7 @@ function Exprience() {
 									width={32}
 									alt="Javascript Logo"
 								/>
-								<span className="ml-1">Nest.js</span>
+								<span className="ml-1">Knime</span>
 							</div>
 							<div className="mx-2 my-2 flex items-center">
 								<Image
@@ -167,7 +166,7 @@ function Exprience() {
 									width={32}
 									alt="Javascript Logo"
 								/>
-								<span className="ml-1">Gin Gonic</span>
+								<span className="ml-1">MS Office Suite</span>
 							</div>
 						</div>
 					</div>
@@ -196,7 +195,7 @@ function Exprience() {
 									width={32}
 									alt="Linux Logo"
 								/>
-								<span className="ml-1">Linux</span>
+								<span className="ml-1">Data Mining/Analytics</span>
 							</div>
 							<div className="mx-2 my-2 flex items-center">
 								<Image
@@ -205,7 +204,7 @@ function Exprience() {
 									width={32}
 									alt="Api Logo"
 								/>
-								<span className="ml-1">REST-API</span>
+								<span className="ml-1">Business Acumen</span>
 							</div>
 							<div className="mx-2 my-2 flex items-center">
 								<Image
@@ -214,7 +213,7 @@ function Exprience() {
 									width={32}
 									alt="Container Logo"
 								/>
-								<span className="ml-1">Container</span>
+								<span className="ml-1">Visualization</span>
 							</div>
 						</div>
 					</div>

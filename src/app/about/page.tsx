@@ -12,11 +12,9 @@ export default function About() {
 					<div className="sm:w-6/12 mt-6 sm:mt-0">
 						<h1 className="mb-2">Tony Nguyen</h1>
 						<span>
-							I was born into a middle-class family and raised by
-							parents who are both teachers. Growing up in an
-							teacher&apos;s family, I received a good education and am
-							proud to have been taught by my knowledgeable
-							parents.
+							As humans, we possess an inherent drive to seek freedom and seek out novel experiences.
+							For me, embarking on a 40-day cycling journey across my country was one of the most rewarding and fulfilling adventures of my life.
+							This experience speaks to my character as someone who is always eager to learn new things and push past self-imposed limitations.
 						</span>
 					</div>
 					<div className="w-6/12 flex justify-start sm:justify-center">
@@ -32,59 +30,46 @@ export default function About() {
 				<Divider props="my-12" />
 				<section>
 					<div>
-						<h1 className="mb-5">About me</h1>
+						<h1 className="mb-5">My career story</h1>
 						<span>
-							I was born in Ha Tinh, Vietnam, a country that was
-							still struggling with poverty at the time. Despite
-							limited access to technology for many, I was
-							fortunate to have some exposure through my father,
-							who had the opportunity to learn about Western
-							culture while working abroad. This knowledge was
-							invaluable for me and eventually led to my move to
-							Europe.
+							My career path initially had no connection to data.
+							When I began my first college education at 18 years old, I did not fully appreciate the importance of data, as everything seemed relatively straightforward.
+							I thought people were mostly drawn to careers in banking and business.
+							After graduation, I became a business specialist and began working with many clients.
+							My job involved gathering information from customers and sending it to our business partners, who manufactured sub-materials and other necessary products.
+							Additionally, I was responsible for maintaining the supply chain.
+							Over time, I gained extensive experience and developed relationships with numerous manufacturers and customers, primarily in the automotive and steel manufacturing sectors.
+							During this period, I became increasingly adept at manipulating data, recognizing its value as a powerful tool for making vital decisions.
+							The most common visualization tools available to me at that time were relatively basic, such as internal database management software or SAP when I worked for a German company.
 						</span>
 					</div>
 					<div className="text-left mt-10">
 						<span>
-							At 9 years old, My family have relocated to
-							Bulgaria, where everything was initially quite
-							unfamiliar to me. However, I quickly adapted and
-							made a lot of friends. The Balkan countries have a
-							friendly atmosphere and the people are kind, which
-							made my transition smoother. I also learned the
-							language while living there, further enhancing my
-							experience in the region.
+							Making the decision to put everything on hold and pursue further education in business was difficult, especially since I had recently been promoted to a higher position.
+							However, I eventually obtained a higher degree in Business Consulting.
+							Even now, I continue to work as a freelancer, offering ideas and connections for numerous businesses in Vietnam.
+							For instance, I provide advice to those who seek out manufacturers of automotive spare parts that meet specific standards.
+							Leveraging my extensive experience and strong relationships with many manufacturers, I offer confident and valuable suggestions.
 						</span>
 					</div>
 					<div className="text-left mt-10">
 						<span>
-							During my time in Bulgaria, I accomplished much. I
-							was able to enroll in the National Mathematics
-							Gymnasium in Sofia despite my limited Bulgarian
-							language skills. However, after my father moved to
-							Germany for work, my family and I faced significant
-							difficulties as we navigated life without him.
+							While studying in Germany, I was exposed to not only advanced business subjects, but also to the concept of data-driven decision making through various projects.
+							I gained hands-on experience by applying several data mining algorithms, including Association Rule mining and Logistic Regression.
 						</span>
 					</div>
 					<div className="text-left mt-10">
 						<span>
-							After a few months, my family was reunited as my
-							mother and I moved to join my father in Germany. I
-							had to quickly adapt to my new surroundings and
-							assist my parents, who struggled with the German
-							language. The pressure to improve my own German
-							skills was challenging, but I persevered.
+							My objective is to become a data analyst within the next few years.
+							That's why I decided to pursue further education in Applied Data Science, which emphasizes practical application in solving business problems through real-world projects.
+							In addition to being proficient in data programming languages, I am self-taught in other programming languages such as HTML, CSS, and frameworks like Nodejs.
+							To prepare myself for the practical application of my knowledge, I practice every day with data, not just through homework assignments but also by working on real projects..
 						</span>
 					</div>
 					<div className="text-left mt-10">
 						<span>
-							And now, I am writing this text through ChatGPT and
-							actively working to improve my programming skills.
-							My goal is to support my parents, so that they can
-							live without financial worries or other stressors,
-							after having faced many challenges in their lives. I
-							am determined to succeed and make a better future
-							for myself and my family.{" "}
+							In my current role as a freelancer, I work as a data analyst for the food and beverage sector in Germany.
+							I utilize customer data and deploy association rule mining techniques, specifically FPGrowth, along with cost analysis techniques to optimize costs and recommend item sets for new marketing campaigns.
 						</span>
 					</div>
 				</section>
