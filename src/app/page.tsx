@@ -14,7 +14,7 @@ export default function Home() {
 						<h1>Hi, this is Tony</h1>
 						<h2 className="mt-2 font-normal">
 							With data being ubiquitous in today&apos;s world, it&apos;s no surprise that many people are drawn to careers in data analysis, including myself. 
-							I&apos;m a bobbyist, becoming a data analyst is a personal goal of mine, and I&apos;m excited to continue learning and growing in this field.
+							Becoming a data analyst is a personal goal of mine, and I&apos;m excited to continue learning and growing in this field.
 						</h2>
 						<Link href="/about">
 							<button className="">Read more about me!</button>
