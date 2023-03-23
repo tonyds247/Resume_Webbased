@@ -11,12 +11,11 @@ export default function Home() {
 			<div className="my-10 sm:mx-20 mx-0">
 				<header className="flex justify-center items-start sm:items-center w-full flex-col-reverse sm:flex-row">
 					<div className="sm:w-6/12 mt-6 sm:mt-0">
-						<h1>Hi, my name is Thinh</h1>
+						<h1>Hi, this is Tony</h1>
 						<h2 className="mt-2 font-normal">
-							I&apos;m a hobbyist who enjoys programming and
-							creating computer science -business projects. My goal is to
-							make as many moneys and become the richest man in
-							the world.
+							Data is a fascinating field that provides us with the tools to explore vast amounts of information and uncover valuable insights and patterns.
+							With data being ubiquitous in today's world, it's no surprise that many people are drawn to careers in data analysis, including myself. 
+							Becoming a data analyst is a personal goal of mine, and I'm excited to continue learning and growing in this field.
 						</h2>
 						<Link href="/about">
 							<button className="">Read more about me!</button>
@@ -37,12 +36,9 @@ export default function Home() {
 					<div>
 						<h1 className="mb-4">Knowledgebase</h1>
 						<span>
-							I am a self-taught web developer with expertise in
-							JavaScript, which I consider my primary programming
-							language. With over four years of experience, I have
-							honed my skills and demonstrated my proficiency
-							through a multitude of projects on GitHub, many of
-							which are written in JavaScript.
+							With several years of experience in both academic and practical aspects of business, I've developed a fast learning mind that allows me to quickly grasp complex business concepts. 
+							I've taken both self-taught and formal classes in programming languages such as R and Python, which has allowed me to hone my skills and demonstrate my proficiency through multiple projects posted on Github. 
+							I'm excited to continue building my expertise in data analytics and contribute to meaningful insights that can drive business success.
 						</span>
 						<Exprience />
 					</div>
@@ -50,14 +46,12 @@ export default function Home() {
 						<h1>Contact</h1>
 						<div className="my-2">
 							<span>
-								As a student, I have a busy schedule, but I will
-								make an effort to respond to emails and messages
-								within 2-3 days. Life can be unpredictable, but
-								I always find humor in the chaos. 🤣
+								I look forward to hearing any questions or feedback from you. As a freelancer, I'm committed to responding to your emails and messages within 1-2 days.
+								Please don't hesitate to reach out if you have any inquiries or if there's anything else I can assist you with.
 							</span>
 							<div>
-								<Link href="mailto:thinh@thinh.tech">
-									<button>thinh@thinh.tech</button>
+								<Link href="mailto:tungnguyenec247@gmail.com">
+									<button>tungnguyenec247@gmail.com</button>
 								</Link>
 							</div>
 						</div>

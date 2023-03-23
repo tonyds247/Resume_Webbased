@@ -10,7 +10,7 @@ export default function About() {
 			<div className="my-10 md:mx-20 mx-0">
 				<header className="flex justify-center items-start sm:items-center w-full flex-col-reverse sm:flex-row">
 					<div className="sm:w-6/12 mt-6 sm:mt-0">
-						<h1 className="mb-2">Thinh Nguyen</h1>
+						<h1 className="mb-2">Tony Nguyen</h1>
 						<span>
 							I was born into a middle-class family and raised by
 							parents who are both teachers. Growing up in an
