@@ -21,8 +21,8 @@ export default function About() {
 						<Image
 							src="/me.jpg"
 							className="rounded-xl shadow-2xl"
-							height={200}
-							width={200}
+							height={280}
+							width={280}
 							alt="Profile picture"
 						/>
 					</div>
@@ -45,8 +45,8 @@ export default function About() {
 					</div>
 					<div className="text-left mt-10">
 						<span>
-							Making the decision to put everything on hold and pursue further education in business was difficult, especially since I had recently been promoted to a higher position.
-							However, I eventually obtained a higher degree in Business Consulting.
+							It was tough to put everything on hold and go back to school for further business education, especially after being promoted to a higher position. 
+							However, I persisted and obtained a higher degree in Business Consulting.
 							Even now, I continue to work as a freelancer, offering ideas and connections for numerous businesses in Vietnam.
 							For instance, I provide advice to those who seek out manufacturers of automotive spare parts that meet specific standards.
 							Leveraging my extensive experience and strong relationships with many manufacturers, I offer confident and valuable suggestions.
@@ -54,22 +54,26 @@ export default function About() {
 					</div>
 					<div className="text-left mt-10">
 						<span>
-							While studying in Germany, I was exposed to not only advanced business subjects, but also to the concept of data-driven decision making through various projects.
-							I gained hands-on experience by applying several data mining algorithms, including Association Rule mining and Logistic Regression.
+							While pursuing my studies in Germany, I had the opportunity to explore advanced business subjects and gain a comprehensive understanding of data-driven decision-making.
+							I actively engaged in various projects that allowed me to apply several data mining algorithms, including Association Rule mining and Logistic Regression. 
+							These experiences not only provided me with hands-on experience but also helped me to appreciate the significance of data analysis and interpretation.
 						</span>
 					</div>
 					<div className="text-left mt-10">
 						<span>
-							My objective is to become a data analyst within the next few years.
-							That&apos;s why I decided to pursue further education in Applied Data Science, which emphasizes practical application in solving business problems through real-world projects.
-							In addition to being proficient in data programming languages, I am self-taught in other programming languages such as HTML, CSS, and frameworks like Nodejs.
-							To prepare myself for the practical application of my knowledge, I practice every day with data, not just through homework assignments but also by working on real projects..
+							Now, my ultimate goal is to establish a career as a successful data analyst, and to achieve this, I have enrolled in an Applied Data Science program that focuses on the practical application of data analytics to solve complex business problems.
+							In addition to my proficiency in data programming languages, I have also self-taught myself HTML, CSS, and frameworks like Nodejs, which I believe will boost my skills in the field.
+							To further refine my abilities, I regularly work with data, not just through coursework assignments but also by participating in real-world projects. 
+							By doing so, I am confident that I am on the right track to attaining my professional goals in data analytics.
 						</span>
 					</div>
 					<div className="text-left mt-10">
 						<span>
-							In my current role as a freelancer, I work as a data analyst for the food and beverage sector in Germany.
-							I utilize customer data and deploy association rule mining techniques, specifically FPGrowth, along with cost analysis techniques to optimize costs and recommend item sets for new marketing campaigns.
+							As a freelancer, my current role involves working as a data analyst for the food and beverage sector in Germany. 
+							My primary responsibility is to utilize customer data to optimize costs and recommend item sets for new marketing campaigns. 
+							To achieve this, I deploy association rule mining techniques, specifically FPGrowth, along with cost analysis techniques. 
+							By analyzing the data, I can identify patterns in customer behavior that help me make data-driven recommendations to clients in the food and beverage industry. 
+							This enables my clients to make more informed decisions that drive growth and profitability.
 						</span>
 					</div>
 				</section>

@@ -13,8 +13,8 @@ export default function Home() {
 					<div className="sm:w-6/12 mt-6 sm:mt-0">
 						<h1>Hi, this is Tony</h1>
 						<h2 className="mt-2 font-normal">
-							With data being ubiquitous in today&apos;s world, it&apos;s no surprise that many people are drawn to careers in data analysis, including myself. 
-							Becoming a data analyst is a personal goal of mine, and I&apos;m excited to continue learning and growing in this field.
+							"Your background doesn&apos;t determine your potential in data analytics. 
+							Stay curious, keep learning, and embrace challenges. With hard work and dedication, you can transform your passion for data into a rewarding career."
 						</h2>
 						<Link href="/about">
 							<button className="">Read more about me!</button>
@@ -24,8 +24,8 @@ export default function Home() {
 						<Image
 							src="/me_2.jpg"
 							className="rounded-xl shadow-2xl"
-							height={200}
-							width={200}
+							height={280}
+							width={280}
 							alt="Profile picture"
 						/>
 					</div>
@@ -35,9 +35,9 @@ export default function Home() {
 					<div>
 						<h1 className="mb-4">Knowledgebase</h1>
 						<span>
-							With several years of experience in both academic and practical aspects of business, I&apos;ve developed a fast learning mind that allows me to quickly grasp complex business concepts. 
-							I&apos;ve taken both self-taught and formal classes in programming languages such as R and Python, which has allowed me to hone my skills and demonstrate my proficiency through multiple projects posted on Github. 
-							I&apos;m excited to continue building my expertise in data analytics and contribute to meaningful insights that can drive business success.
+							I have a wealth of experience in both academia and real-world business, which has honed my ability to rapidly understand complex concepts. 
+							Through both self-teaching and formal courses, I&apos;ve become proficient in programming languages such as R and Python, and have showcased my skills with numerous projects on Github. 
+							I&apos;m eager to further develop my expertise in data analytics and apply it to generate valuable insights that drive business growth.
 						</span>
 						<Exprience />
 					</div>
