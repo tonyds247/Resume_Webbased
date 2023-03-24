@@ -13,8 +13,8 @@ export default function Home() {
 					<div className="sm:w-6/12 mt-6 sm:mt-0">
 						<h1>Hi, this is Tony</h1>
 						<h2 className="mt-2 font-normal">
-							"Your background doesn&apos;t determine your potential in data analytics. 
-							Stay curious, keep learning, and embrace challenges. With hard work and dedication, you can transform your passion for data into a rewarding career."
+							&quot;Your background doesn&apos;t determine your potential in data analytics. 
+							Stay curious, keep learning, and embrace challenges. With hard work and dedication, you can transform your passion for data into a rewarding career.&quot;
 						</h2>
 						<Link href="/about">
 							<button className="">Read more about me!</button>
