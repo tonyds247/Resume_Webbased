@@ -16,7 +16,7 @@ Open [https://resume-webbased.vercel.app/) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hellohttps://resume-webbased.vercel.app/.
+[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [[http://localhost:3000/api/hellohttps://resume-webbased.vercel.app/.](https://resume-webbased.vercel.app/)
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
