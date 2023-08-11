@@ -17,7 +17,7 @@ export default function Home() {
 							Stay curious, keep learning, and embrace challenges. With hard work and dedication, you can transform your passion for data into a rewarding career.&quot;
 						</h2>
 						<Link href="/about">
-							<button className="">Read more about me!</button>
+							<button className="">Read more Data Blog!</button>
 						</Link>
 					</div>
 					<div className="w-6/12 flex justify-start sm:justify-center">
